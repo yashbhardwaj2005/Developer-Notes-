@@ -4,7 +4,7 @@
 
 ---
 
-# 1. Headings
+# 1. Headings Formats 
 
 ```md
 # Heading 1
